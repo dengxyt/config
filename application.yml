@@ -1,4 +1,4 @@
-server:
+﻿server:
   port: 7901
   # context-path: /test
 spring:
